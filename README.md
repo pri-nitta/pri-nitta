@@ -2,7 +2,7 @@
 
 # 😁 Hi everyone!
 
-![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091)
+![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)
 
 - ✨ I'm Priscila Nitta from Sao Paulo, Brazil! I'm really happy to have you here in my profile!
 - 📱 Currently I'm studying Kotlin for android mobile development
@@ -11,6 +11,7 @@
 - 📚 I'm almost finishing my MBA in Business management - University of Sao Paulo
 - 🌎 I had the great pleasure to live in Japan, New Zealand and Sweden
 - 🗣️ I can speak Portuguese, English, Spanish and Japanese
+- 🎮 I like to play Age of Empires II, Overcooked, The Sims 4, Fallout Shelter and Gartic
 - 📌 Feel free to add me in LinkedIn, I'll be pleased to see you there!
 
 # 💻 My GitHub Status
