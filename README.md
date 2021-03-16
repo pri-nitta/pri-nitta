@@ -14,7 +14,7 @@
 - 🎮 I like to play Age of Empires II, Overcooked, The Sims 4, Fallout Shelter and Gartic
 - 📌 Feel free to add me in LinkedIn, I'll be pleased to see you there!
 
-# 💻 My GitHub Status
+# 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta&langs_count=5&theme=tokyonight)]()
