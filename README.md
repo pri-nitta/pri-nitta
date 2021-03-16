@@ -1,5 +1,5 @@
 <img src= "https://user-images.githubusercontent.com/73479796/111246153-88daa400-85e4-11eb-9365-06f9801fa56b.png">
-![](https://komarev.com/ghpvc/?username=pri-nitta&color=green)
+![](https://komarev.com/ghpvc/?username=Pri-Nitta&color=green)
 
 # 😁 Hi everyone!
 
