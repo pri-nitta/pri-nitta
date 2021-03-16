@@ -1,4 +1,5 @@
 <img src= "https://user-images.githubusercontent.com/73479796/111244480-c5f16700-85e1-11eb-88ce-79db76f4f19a.png" width="500">
+![](https://visitor-badge.laobi.icu/badge?page_id=Pri-Nitta.Pri-Nitta)
 
 *Hi everyone!*
 
