@@ -1,7 +1,8 @@
-### Hi there 👋
+![Please feel Welcome!](https://user-images.githubusercontent.com/73479796/111244480-c5f16700-85e1-11eb-88ce-79db76f4f19a.png)
 
-<!--
-**pri-nitta/pri-nitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Hi everyone!*
+
+I'm Priscila Nitta from Sao Paulo, Brazil! I'm really happy to have you here in my profile!
 
 Here are some ideas to get you started:
 
