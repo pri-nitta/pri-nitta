@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egashira.sayuri@gmail.com)](mailto:egashira.sayuri@gmail.com)
 
 - ✨ I'm **Priscila Nitta** from Sao Paulo, Brazil! I'm really happy to have you here in my profile!
-- 📱 Currently I'm studying **Kotlin** for android mobile development
+- 📱 I'm Curently studying **Kotlin** for android mobile development
 - 🌳 I have a degree in Environmental Management - University of Sao Paulo
 - 🤝 Specialized in Social project and public policy - Senac
 - 📚 I'm almost finishing my MBA in Business management - University of Sao Paulo
