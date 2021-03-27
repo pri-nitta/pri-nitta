@@ -19,4 +19,3 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta&langs_count=5&theme=tokyonight&layout=compact)]()
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pri_nitta)](https://github.com/pri-nitta/github-readme-stats)
