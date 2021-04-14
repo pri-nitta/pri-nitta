@@ -18,4 +18,4 @@
 ## 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta&langs_count=5&theme=tokyonight&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta&langs_count=6&theme=tokyonight&layout=compact)]()
