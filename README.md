@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egashira.sayuri@gmail.com)](mailto:egashira.sayuri@gmail.com)
 
+
 - ✨ I'm **Priscila Nitta** from Sao Paulo, Brazil! I'm really happy to have you here in my profile!
 - 📱 I'm Curently studying **Kotlin** for android mobile development
 - 🌳 I have a degree in Environmental Management - University of Sao Paulo
@@ -18,4 +19,4 @@
 ## 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?pri-nitta" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta&layout=compact&theme=tokyonight)](https://github.com/pri-nitta/github-readme-stats)
