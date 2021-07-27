@@ -2,7 +2,7 @@
 
 ## 😁 Hi everyone!
 
-![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egashira.sayuri@gmail.com)](mailto:egashira.sayuri@gmail.com)
+![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egashira.sayuri@gmail.com)](mailto:priscila.nitta@gmail.com)
 
 
 - ✨ I'm **Priscila Nitta** from Sao Paulo, Brazil! I'm really happy to have you here in my profile!
