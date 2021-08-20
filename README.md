@@ -9,7 +9,7 @@
 - 📱 I'm Curently studying **Kotlin** for android mobile app development
 - 🌳 I have a degree in Environmental Management - University of Sao Paulo
 - 🤝 Specialized in Social project and public policy - Senac
-- 📚 I'm almost finishing my MBA in Business management - University of Sao Paulo
+- 📚 MBA in Business management - University of Sao Paulo
 - 🌎 I had the great pleasure to live in Japan, New Zealand and Sweden
 - 🗣️ I can speak Portuguese, English, Spanish and Japanese
 - 👚 Owner of sustainable ethical brand: [Urbana Flor](https://www.instagram.com/urbanaflor_/)
