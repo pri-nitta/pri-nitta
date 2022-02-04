@@ -19,4 +19,4 @@
 ## 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?pri-nitta" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta)](https://github.com/anuraghazra/github-readme-stats)
