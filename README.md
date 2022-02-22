@@ -1,5 +1,3 @@
-<img src= "https://user-images.githubusercontent.com/73479796/111246153-88daa400-85e4-11eb-9365-06f9801fa56b.png">
-
 ## 😁 Hi everyone!
 
 ![](https://komarev.com/ghpvc/?username=pri-nitta&color=00E091) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilanitta/)](https://www.linkedin.com/in/priscilanitta/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egashira.sayuri@gmail.com)](mailto:priscila.nitta@gmail.com)
@@ -19,4 +17,4 @@
 ## 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri-nitta)](https://github.com/anuraghazra/github-readme-stats)
+- just a quick observation, I just gave up of using the main used languages api, because it is not showing the data with accuracy. Any way, my main language is Kotlin, but at college I'm doing many project using Java. At the begging I had few Python projects to study algorithms.
