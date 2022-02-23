@@ -17,4 +17,4 @@
 ## 💻 My GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pri-nitta&count_private=true&theme=tokyonight&showicons=true&hide=prs,issues,contribs)]()
-- just a quick observation, I just gave up of using the main used languages api, because it is not showing the data with accuracy. Any way, my main language is Kotlin, but at college I'm doing many project using Java. At the begging I had few Python projects to study algorithms.
+- just a quick observation, I just gave up of using the main used languages api, because it is not showing accuracy data. Any way, my main language is Kotlin, but at college I'm doing many projects using Java. At the begging I had few Python projects to study algorithms.
