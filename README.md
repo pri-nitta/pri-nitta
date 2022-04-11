@@ -11,7 +11,7 @@
 - 🌎 I had the great pleasure to live in Japan, New Zealand and Sweden
 - 🗣️ I can speak Portuguese, English, Spanish and Japanese
 - 👚 Owner of sustainable ethical brand: [Urbana Flor](https://www.instagram.com/urbanaflor_/)
-- 🎮 I like to play Age of Empires II, Overcooked, The Sims 4, Fallout Shelter and Gartic
+- 🎮 I like to play Age of Empires II, Overcooked, The Sims 4, Fallout Shelter, Gartic, It takes two, Harry Potter Lego etc...
 - 📌 Feel free to add me in LinkedIn, I'll be pleased to see you there!
 
 ## 💻 My GitHub Stats
